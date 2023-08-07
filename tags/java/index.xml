@@ -1,38 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Ivy的技術筆記</title>
-        <link>https://example.com/</link>
-        <description>Recent content on Ivy的技術筆記</description>
+        <title>Java on Ivy的技術筆記</title>
+        <link>https://example.com/tags/java/</link>
+        <description>Recent content in Java on Ivy的技術筆記</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>https://example.com/about/</link>
-        <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/about/</guid>
-        <description>&lt;p&gt;你好，我是Ivy，台灣桃園人。從小到大都是文組生，數學物理化學都很差的那種。&lt;/p&gt;
-&lt;p&gt;2020年因緣際會下離開了多年了社工工作，轉職成為一名後端工程師，雖然工作三年，但還是很菜，常常為了自己寫過什麼，所幸創一個部落格，紀錄工作上學到的技術。教別人是讓自己學會技術最快的方法，感謝你來到&lt;/p&gt;
-&lt;p&gt;目前預計更新的技術有：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;li&gt;JQuery&lt;/li&gt;
-&lt;li&gt;SQL&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;陸續增加中&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://example.com/archives/</link>
-        <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/archives/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Java字串去除空白的方式</title>
         <link>https://example.com/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</link>
         <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
@@ -63,23 +37,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Links</title>
-        <link>https://example.com/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/links/</guid>
-        <description>&lt;p&gt;除了記錄工作，我還有其他的興趣，可以在以下的地方找到我，和我聊聊喔！&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://example.com/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/search/</guid>
-        <description></description>
         </item>
         
     </channel>
