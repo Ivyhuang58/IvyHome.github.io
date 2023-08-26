@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Sql on Ivy的技術筆記</title>
-        <link>https://example.com/tags/sql/</link>
+        <link>https://ivyhuang58.github.io/tags/sql/</link>
         <description>Recent content in Sql on Ivy的技術筆記</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/sql/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ivyhuang58.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>SQL: select 多筆，按照輸入的順序排序</title>
-        <link>https://example.com/p/sql-select-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</link>
+        <link>https://ivyhuang58.github.io/p/sql-select-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</link>
         <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/sql-select-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</guid>
+        <guid>https://ivyhuang58.github.io/p/sql-select-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</guid>
         <description>&lt;p&gt;最近工作遇到一個問題，要利用主鍵查詢多筆資料，但是撈出來的資料，系統會用主鍵值自動排序，舉例：以學生學號來查資料，輸入：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Ivy的技術筆記</title>
-        <link>https://example.com/tags/</link>
+        <link>https://ivyhuang58.github.io/tags/</link>
         <description>Recent content in Tags on Ivy的技術筆記</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ivyhuang58.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>oracle</title>
-        <link>https://example.com/tags/oracle/</link>
+        <link>https://ivyhuang58.github.io/tags/oracle/</link>
         <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/oracle/</guid>
+        <guid>https://ivyhuang58.github.io/tags/oracle/</guid>
         <description></description>
         </item>
         <item>
         <title>Sql</title>
-        <link>https://example.com/tags/sql/</link>
+        <link>https://ivyhuang58.github.io/tags/sql/</link>
         <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/sql/</guid>
+        <guid>https://ivyhuang58.github.io/tags/sql/</guid>
         <description></description>
         </item>
         <item>
         <title>Java</title>
-        <link>https://example.com/tags/java/</link>
+        <link>https://ivyhuang58.github.io/tags/java/</link>
         <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/java/</guid>
+        <guid>https://ivyhuang58.github.io/tags/java/</guid>
         <description></description>
         </item>
         <item>
         <title>String</title>
-        <link>https://example.com/tags/string/</link>
+        <link>https://ivyhuang58.github.io/tags/string/</link>
         <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/string/</guid>
+        <guid>https://ivyhuang58.github.io/tags/string/</guid>
         <description></description>
         </item>
         

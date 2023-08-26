@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ivy的技術筆記</title>
-        <link>https://example.com/</link>
+        <link>https://ivyhuang58.github.io/</link>
         <description>Recent content on Ivy的技術筆記</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ivyhuang58.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>SQL: select 多筆，按照輸入的順序排序</title>
-        <link>https://example.com/p/sql-select-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</link>
+        <link>https://ivyhuang58.github.io/p/sql-select-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</link>
         <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/sql-select-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</guid>
+        <guid>https://ivyhuang58.github.io/p/sql-select-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</guid>
         <description>&lt;p&gt;最近工作遇到一個問題，要利用主鍵查詢多筆資料，但是撈出來的資料，系統會用主鍵值自動排序，舉例：以學生學號來查資料，輸入：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -95,10 +95,10 @@
         </item>
         <item>
         <title>About</title>
-        <link>https://example.com/about/</link>
+        <link>https://ivyhuang58.github.io/about/</link>
         <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/about/</guid>
+        <guid>https://ivyhuang58.github.io/about/</guid>
         <description>&lt;p&gt;你好，我是Ivy，台灣桃園人。從小到大都是文組生，數學物理化學都很差的那種。&lt;/p&gt;
 &lt;p&gt;2020年因緣際會下離開了多年了社工工作，轉職成為一名後端工程師，雖然工作三年，但還是很菜，常常為了自己寫過什麼，所幸創一個部落格，紀錄工作上學到的技術。教別人是讓自己學會技術最快的方法，感謝你來到&lt;/p&gt;
 &lt;p&gt;目前預計更新的技術有：&lt;/p&gt;
@@ -113,18 +113,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://example.com/archives/</link>
+        <link>https://ivyhuang58.github.io/archives/</link>
         <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://ivyhuang58.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Java字串去除空白的方式</title>
-        <link>https://example.com/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</link>
+        <link>https://ivyhuang58.github.io/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</link>
         <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</guid>
+        <guid>https://ivyhuang58.github.io/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</guid>
         <description>&lt;p&gt;工作時常會遇到一些特別的資料，不小心夾帶了一些空白字元，利用Java的一些原生方法就可以去除。（但是得先判斷不等於null才執行，不然會跑出例外喔！）&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;方法一去除頭尾的空白格trim&#34;&gt;方法一：去除頭尾的空白格：trim()&lt;/h3&gt;
@@ -153,19 +153,19 @@
         </item>
         <item>
         <title>Links</title>
-        <link>https://example.com/links/</link>
+        <link>https://ivyhuang58.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/links/</guid>
+        <guid>https://ivyhuang58.github.io/links/</guid>
         <description>&lt;p&gt;除了記錄工作，我還有其他的興趣，可以在以下的地方找到我，和我聊聊喔！&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.com/search/</link>
+        <link>https://ivyhuang58.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://ivyhuang58.github.io/search/</guid>
         <description></description>
         </item>
         
