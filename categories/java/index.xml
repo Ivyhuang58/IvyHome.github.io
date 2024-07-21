@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>JAVA on Example Site</title>
-        <link>https://example.com/categories/java/</link>
-        <description>Recent content in JAVA on Example Site</description>
+        <title>JAVA on Ivy技術筆記</title>
+        <link>https://ivyhuang58.github.io/categories/java/</link>
+        <description>Recent content in JAVA on Ivy技術筆記</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/java/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-tw</language>
+        <copyright>Ivy Huang</copyright>
+        <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ivyhuang58.github.io/categories/java/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>【Java】字串去除空白的方式</title>
-        <link>https://example.com/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</link>
+        <link>https://ivyhuang58.github.io/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</link>
         <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</guid>
-        <description>&lt;img src="https://example.com/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 【Java】字串去除空白的方式" /&gt;&lt;p&gt;工作時常會遇到一些特別的資料，不小心夾帶了一些空白字元，利用Java的一些原生方法就可以去除。（但是得先判斷不等於null才執行，不然會跑出例外喔！）&lt;/p&gt;
+        <guid>https://ivyhuang58.github.io/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</guid>
+        <description>&lt;p&gt;工作時常會遇到一些特別的資料，不小心夾帶了一些空白字元，利用Java的一些原生方法就可以去除。（但是得先判斷不等於null才執行，不然會跑出例外喔！）&lt;/p&gt;
 &lt;h4 id=&#34;方法一去除頭尾的空白格trim&#34;&gt;方法一：去除頭尾的空白格：trim()
 &lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;

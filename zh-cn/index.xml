@@ -2,17 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>演示站点</title>
-        <link>https://example.com/zh-cn/</link>
+        <link>http://localhost:1313/zh-cn/</link>
         <description>Recent content on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="https://example.com/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于</title>
-        <link>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</link>
+        <copyright>Example Person</copyright><atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>關於</title>
+        <link>http://localhost:1313/zh-cn/%E9%97%9C%E6%96%BC/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <guid>http://localhost:1313/zh-cn/%E9%97%9C%E6%96%BC/</guid>
+        <description>&lt;p&gt;Hello!你好，我是Ivy&lt;/p&gt;
+&lt;p&gt;從高中到大學一路都是文組生，工作了六年才毅然決然離開原本的工作，轉戰資訊業，從事程式設計師即將邁入第四年。&lt;/p&gt;
+&lt;p&gt;工作途中遇到許多困難，深知其中不易。故將所學、所聞紀錄於此站，我相信能教會別人是最好的學習方法。同時也能精進自己的工作能力並記錄自己的職涯生活。&lt;/p&gt;
+&lt;p&gt;也希望無意間逛到此站的你可以因為我的筆記而獲得幫助。&lt;/p&gt;
 </description>
         </item>
         

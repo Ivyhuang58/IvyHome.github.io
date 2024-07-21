@@ -2,132 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/"
+                hreflang="zh-tw"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/p/hugohugo%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/categories/"
+                hreflang="zh-tw"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/hugo/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/tags/"
+                hreflang="zh-tw"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
-  </url><url>
-    <loc>https://example.com/p/gitgit%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/git/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/git/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/p/java%E5%AD%97%E4%B8%B2%E5%8E%BB%E9%99%A4%E7%A9%BA%E7%99%BD%E7%9A%84%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/p/sqlselect-%E5%A4%9A%E7%AD%86%E6%8C%89%E7%85%A7%E8%BC%B8%E5%85%A5%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%BA%8F/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/java/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/java/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/sql/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/sql/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/page/"
-                />
-  </url><url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/about/"
-                />
-  </url><url>
-    <loc>https://example.com/links/</loc>
-  </url><url>
-    <loc>https://example.com/search/</loc>
-  </url><url>
-    <loc>https://example.com/categories/test/</loc>
   </url>
 </urlset>
